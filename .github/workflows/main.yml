@@ -1,6 +1,6 @@
-name: Node.js Package
-   on:
-       release: 1.0.0
+   name: Node.js Package
+   on: 
+       release: 
          types: [created] 
    jobs: 
      build: 7 
