@@ -1,15 +1,23 @@
 {
-  "name": "pyFaulT2RePol",
+  "name": "pyfault2repol",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "publishConfig": {
-     "registry": "https://npm.pkg.github.com/@Mfopain"
+    "registry": "https://npm.pkg.github.com/@Mfopain"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mfopain/pyFaulT2RePol.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mfopain/pyFaulT2RePol/issues"
+  },
+  "homepage": "https://github.com/Mfopain/pyFaulT2RePol#readme",
+  "description": ""
 }
