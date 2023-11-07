@@ -1,7 +1,7 @@
 name: Node.js Package
 
 on:
-  push:
+  release:
     types: [created]
     branches: 
       - main
@@ -29,7 +29,7 @@ jobs:
         with:
           node-version: 16
           registry-url: https://npm.pkg.github.com/
-          scope: '@Mfopain' 
+          
       - run: npm ci
       - run: npm publish
         env:
