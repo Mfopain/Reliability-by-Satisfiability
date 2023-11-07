@@ -1,0 +1,19 @@
+{
+  "name": "pyfault2repol",
+  "version": "1.0.0",
+  "description": "System reliability",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mfopain/Reliability-by-Satisfiability.git"
+  },
+  "author": "David Jaures Fotsa-Mbogne, Guy-de-patience Ftatsi-Mbetmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mfopain/Reliability-by-Satisfiability/issues"
+  },
+  "homepage": "https://github.com/Mfopain/Reliability-by-Satisfiability#readme"
+}
