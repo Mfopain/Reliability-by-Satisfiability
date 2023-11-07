@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "System reliability",
   "main": "index.js",
+  "publishConfig": { 
+    "registry":"https://npm.pkg.github.com"
+  }
   "scripts": {
     "test": "exit 0"
   },
